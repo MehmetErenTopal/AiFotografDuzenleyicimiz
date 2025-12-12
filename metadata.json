@@ -1,0 +1,5 @@
+{
+  "name": "AI Fotoğraf Stüdyosu",
+  "description": "Gemini 2.5 Flash tarafından desteklenen yeni nesil yapay zeka fotoğraf düzenleyicisi.",
+  "requestFramePermissions": []
+}
